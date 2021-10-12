@@ -12,4 +12,4 @@ In Progress Content;
 UX-100 Series (Early Vaccum Engine)
 Completed Content;
 -SE-0 Series,
--UX-100 Series (Early Vaccum Engine),
+-UX-100 Series,
